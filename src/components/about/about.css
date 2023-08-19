@@ -1,0 +1,11 @@
+.about-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.about-text {
+  font-size: 1rem;
+  line-height: 1.6;
+}

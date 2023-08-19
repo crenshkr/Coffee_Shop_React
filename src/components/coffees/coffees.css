@@ -1,0 +1,13 @@
+.coffee-section {
+  text-align: center;
+}
+
+.coffee-image {
+  width: 100%;
+  height: auto;
+}
+
+.coffee-description {
+  font-size: 1rem;
+  padding: 10px;
+}

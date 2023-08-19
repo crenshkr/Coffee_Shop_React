@@ -1,0 +1,57 @@
+body {
+  font-family: "Arial", sans-serif;
+  line-height: 1.6;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+
+h1,
+h2,
+h3 {
+  color: #545454;
+}
+
+a {
+  text-decoration: none;
+  color: #555;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  background: #f9f9f9;
+  padding: 15px 0;
+}
+
+footer {
+  background: #f9f9f9;
+  padding: 15px 0;
+  text-align: center;
+}
+
+section {
+  padding: 40px 0;
+}
+
+img {
+  max-width: 50%;
+  height: auto;
+}
+
+@media (max-width: 768px) {
+  nav {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+/* image="https://corretto.qodeinteractive.com/wp-content/uploads/2018/04/p2-parallax-img-1.jpg" */
+
+/* <img width="189" height="24" src="https://corretto.qodeinteractive.com/wp-content/uploads/2018/04/title-separator-white.png" } */
+
+/* url("https://corretto.qodeinteractive.com/wp-content/uploads/2018/04/p2-title-img-1.jpg"
+
+<img width="189" height="24" src="https://corretto.qodeinteractive.com/wp-content/uploads/2018/04/title-separator-white.png" class="attachment-full size-full" alt="s" decoding="async" loading="lazy">
+*/
